@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout << "MARGE CONF" << std::endl;
+    std::cout << "Master" << std::endl;
     return 0;
 }
